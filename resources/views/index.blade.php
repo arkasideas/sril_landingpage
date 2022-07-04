@@ -251,32 +251,7 @@
 
     <!--====== PRINICNG STYLE EIGHT ENDS ======-->
     
-    <!--====== CALL TO ACTION TWO PART START ======-->
-
-    <section id="call-action" class="call-action-area">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-5">
-                    <div class="call-action-content mt-45">
-                        <h3 class="action-title">Get latest updates!</h3>
-                        <p class="text">We never spam your email</p>
-                    </div> <!-- call action content -->
-                </div>
-                <div class="col-lg-7">
-                    <div class="call-action-form mt-50">
-                        <form action="#">
-                            <input type="text" placeholder="Enter your email">
-                            <div class="action-btn rounded-buttons">
-                                <button class="main-btn rounded-three">subscribe</button>
-                            </div>
-                        </form>
-                    </div> <!-- call action form -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== CALL TO ACTION TWO PART ENDS ======-->
+ 
     
     <!--====== TESTIMONIAL THREE PART START ======-->
 
@@ -464,12 +439,12 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5">
                         <div class="copyright text-center text-lg-left mt-10">
-                            <p class="text">Crafted by <a style="color: #38f9d7" rel="nofollow" href="https://uideck.con">UIdeck</a> and UI Elements from <a style="color: #38f9d7" rel="nofollow" href="https://ayroui.com">Ayro UI</a></p>
+                            <p class="text">Copyright © 2021 - 2022 <a style="color: #092179" rel="nofollow" href="https://uideck.com">Arkas Ideas.</a>All rights reserved.</p>
                         </div> <!--  copyright -->
                     </div>
                     <div class="col-lg-2">
                         <div class="footer-logo text-center mt-10">
-                            <a href="index.html"><img src="assets/images/logo-2.svg" alt="Logo"></a>
+                            <a href="index.html"><img src="assets/images/logo.png" width="48px" height="48px" alt="Logo"></a>
                         </div> <!-- footer logo -->
                     </div>
                     <div class="col-lg-5">
@@ -492,10 +467,5 @@
     <a href="#" class="back-to-top"><i class="lni-chevron-up"></i></a>
 
     <!--====== BACK TOP TOP PART ENDS ======-->  
-
-    <!--====== PART START ======-->
-
-
-
-    <!--====== PART ENDS ======-->
 @endsection
+

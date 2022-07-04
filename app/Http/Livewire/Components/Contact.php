@@ -8,12 +8,14 @@ use Illuminate\Support\Facades\Mail;
 
 class Contact extends Component
 {
-    public $name, $email, $message;
+    public $name, $email, $message,$kota,$receiver, $recaptcha;
     public function store()
     {
+
         $this->validate([
             'name'   => 'required',
-            'email' => 'required|email'
+            'email' => 'required|email',
+            'recaptcha' => 'required|captcha'
         ]);
 
         $data = array(
@@ -22,7 +24,13 @@ class Contact extends Component
             'message' => $this->message
         );
 
-        Mail::to("testing@malasngoding.com")->send(new SrilEmail($data));
+        if($this->kota == 1){
+            $this->receiver = "jakarta@malasngoding.com";
+        }
+        else{
+            $this->receiver = "kendari@malasngoding.com";
+        }
+        Mail::to($this->receiver)->send(new SrilEmail($data));
         $this->reset();
 		session()->flash('alert-success', 'SENT SUCCESSFULLY.');
     }

@@ -38,6 +38,15 @@
                         </div>
                     </div> <!-- form input -->
                     <div class="form-input mt-15">
+                        <label>Kota</label>
+                        <div class="input-items default">
+                           <select wire:model.defer="kota" id="" style="width:100%;">
+                                <option value="1">JAKARTA</option>
+                                <option value="2">KENDARI</option>
+                           </select>
+                        </div>
+                    </div>
+                    <div class="form-input mt-15">
                         <label>Email</label>
                         <div class="input-items default">
                             <input type="email" placeholder="Email" wire:model="email" required>
@@ -51,6 +60,17 @@
                             <i class="lni-pencil-alt"></i>
                         </div>
                     </div> <!-- form input -->
+                    <div class="form-input mt-15">
+                        <div class="input-items default">
+                            <div wire:ignore wire:key="captcha">
+                                {!! NoCaptcha::renderJs() !!}
+                                {!! NoCaptcha::display(['data-callback' => 'onCallback']) !!}
+                            </div>
+                            @error('recaptcha')
+                            <small class="text-danger">{{$message}}</small>
+                            @enderror
+                        </div>
+                    </div>
                     <p class="form-message"></p>
                     <div class="form-input rounded-buttons mt-20">
                         <div wire:loading wire:target="store">
@@ -66,3 +86,10 @@
         </div>
     </div> <!-- row -->
 </div> <!-- container -->
+@section('js')
+<script type="text/javascript">
+    var onCallback = function(){
+        @this.set('recaptcha', grecaptcha.getResponse());
+    };
+</script>
+@endsection

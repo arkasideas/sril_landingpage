@@ -36,6 +36,9 @@
         <!--====== Style css ======-->
         <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
 
+        <!--====== CAPTCHA ======-->
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
         @livewireStyles
     </head>
     <body>
@@ -59,7 +62,7 @@
     </div>
 
     <!--====== PRELOADER PART ENDS ======-->    
-        @yield('content')
+        
         <!--====== jquery js ======-->
         <script src="{{asset('assets/js/vendor/modernizr-3.6.0.min.js')}}" ></script>
         <script src="{{asset('assets/js/vendor/jquery-1.12.4.min.js')}}"></script>
@@ -89,6 +92,10 @@
 
         <!--====== Main js ======-->
         <script src="{{asset('assets/js/main.js')}}"></script>
+
+        @yield('content')
+        @yield('js')
+        
         @livewireScripts
     </body>
 </html>

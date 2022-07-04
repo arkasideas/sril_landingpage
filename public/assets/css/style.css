@@ -186,7 +186,7 @@ p {
       height: 100%;
       border-style: solid;
       /* Spinner Color */
-      border-color: #38f9d7 #38f9d7 #cbced1;
+      border-color: #092179 #092179 #cbced1;
       border-radius: 50%;
       border-width: 6px; }
     .preloader .loader .ytp-spinner-left .ytp-spinner-circle {
@@ -455,9 +455,8 @@ p {
 .rounded-buttons .rounded-three {
   overflow: hidden;
   line-height: 52px;
-  background: -webkit-linear-gradient(left, #43cae9 0%, #38f9d7 50%, #43cae9 100%);
-  background: -o-linear-gradient(left, #43cae9 0%, #38f9d7 50%, #43cae9 100%);
-  background: linear-gradient(to right, #43cae9 0%, #38f9d7 50%, #43cae9 100%);
+  background: #092179;
+  
   background-size: 200% auto;
   color: #fff;
   border: 0;
@@ -600,9 +599,8 @@ p {
 ===========================*/
 /*===== NAVBAR EIGHT =====*/
 .navbar-area {
-  background: -webkit-linear-gradient(left, #43cae9 0%, #38f9d7 100%);
-  background: -o-linear-gradient(left, #43cae9 0%, #38f9d7 100%);
-  background: linear-gradient(to right, #43cae9 0%, #38f9d7 100%);
+  background-color: #092179;
+
   padding: 10px 0;
   position: absolute;
   top: 0;
@@ -1963,7 +1961,7 @@ p {
       cursor: pointer; }
     .testimonial-active-2 .slick-dots li.slick-active button,
     .testimonial-active .slick-dots li.slick-active button {
-      background-color: #38f9d7; }
+      background-color: #092179; }
 
 .single-testimonial-4 {
   border: 2px solid #cbced1;
@@ -2267,7 +2265,7 @@ p {
 /*===== BACK TO TOP =====*/
 .back-to-top {
   font-size: 20px;
-  color: #121212;
+  color: #fff;
   position: fixed;
   right: 20px;
   bottom: 20px;
@@ -2275,7 +2273,7 @@ p {
   height: 45px;
   line-height: 45px;
   border-radius: 50%;
-  background-color: #38f9d7;
+  background-color: #092179;
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;

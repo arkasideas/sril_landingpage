@@ -17,22 +17,22 @@
                     <div class="collapse navbar-collapse sub-menu-bar" id="navbarEight">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav-item active">
-                                <a class="page-scroll" href="#home">HOME</a>
+                                <a class="page-scroll" href="#home">BERANDA</a>
                             </li>
                             <li class="nav-item">
-                                <a class="page-scroll" href="#about">ABOUT</a>
+                                <a class="page-scroll" href="#about">TENTANG</a>
                             </li>
                             <li class="nav-item">
-                                <a class="page-scroll" href="#portfolio">PORTFOLIO</a>
+                                <a class="page-scroll" href="#portfolio">DEPO</a>
                             </li>
                             <li class="nav-item">
-                                <a class="page-scroll" href="#pricing">PRICING</a>
+                                <a class="page-scroll" href="#pricing">VISI & MISI</a>
                             </li>
                             <li class="nav-item">
-                                <a class="page-scroll" href="#testimonial">CLIENTS</a>
+                                <a class="page-scroll" href="#testimonial">TESTIMONI</a>
                             </li>
                             <li class="nav-item">
-                                <a class="page-scroll" href="#contact">CONTACT</a>
+                                <a class="page-scroll" href="#contact">KONTAK</a>
                             </li>
                         </ul>
                     </div>
