@@ -2,20 +2,20 @@
     <div class="row justify-content-center">
         <div class="col-lg-6">
             <div class="section-title text-center pb-20">
-                <h3 class="title">Get in touch</h3>
-                <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
+                <h3 class="title">Kontak SRIL</h3>
+                <p class="text">Info lebih lanjut dapat menghubungi kontak yang tersedia. SRIL siap membantu.</p>
             </div> <!-- section title -->
         </div>
     </div> <!-- row -->
     <div class="row">
         <div class="col-lg-6">
             <div class="contact-two mt-50 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                <h4 class="contact-title">Lets talk about the project</h4>
-                <p class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam unde repellendus delectus facilis quia consequatur maxime perferendis! Sequi, modi consequatur.</p>
+                <h4 class="contact-title">Info SRIL</h4>
+                <p class="text">PT Samudera Raya Indo Lines</p>
                 <ul class="contact-info">
-                    <li><i class="lni-money-location"></i> Elizabeth St, Melbourne, Australia</li>
-                    <li><i class="lni-phone-handset"></i> +333 789-321-654</li>
-                    <li><i class="lni-envelope"></i> hello@ayroui.com</li>
+                    <li><i class="lni-money-location"></i> Jalan Kalimas Baru No 8A, Surabaya</li>
+                    <li><i class="lni-phone-handset"></i> 081234567890</li>
+                    <li><i class="lni-envelope"></i> sril@sril.com</li>
                 </ul>
             </div> <!-- contact two -->
         </div>

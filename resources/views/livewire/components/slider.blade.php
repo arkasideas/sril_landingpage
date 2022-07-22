@@ -8,15 +8,14 @@
             </ol>
 
             <div class="carousel-inner">
-                <div class="carousel-item bg_cover active" style="background-image: url(assets/images/slider-1.jpg)">
+                <div class="carousel-item bg_cover active" style="background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url(assets/images/pelayaran-1.jpg)">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-xl-6 col-lg-7 col-sm-10">
-                                    <h2 class="carousel-title">Refreshing Design & Easy to Customize</h2>
+                                    <h2 class="carousel-title">Samudra Raya Indo Lines Pilihan Anda</h2>
                                     <ul class="carousel-btn rounded-buttons">
-                                        <li><a class="main-btn rounded-three" href="#">GET STARTED</a></li>
-                                        <li><a class="main-btn rounded-one" href="#">DOWNLOAD</a></li>
+                                        <li><a class="main-btn rounded-three page-scroll" href="#about">INFO SELANJUTNYA</a></li>
                                     </ul>
                                 </div>
                             </div> <!-- row -->
@@ -24,15 +23,14 @@
                     </div> <!-- carousel caption -->
                 </div> <!-- carousel-item -->
 
-                <div class="carousel-item bg_cover" style="background-image: url(assets/images/slider-2.jpg)">
+                <div class="carousel-item bg_cover" style="background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(assets/images/pelayaran-2.jpg)">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-xl-6 col-lg-7 col-sm-10">
-                                    <h2 class="carousel-title">Based on Latest Bootstrap & HTML5</h2>
+                                    <h2 class="carousel-title">Shipping dan Logistic Terbaik untuk Anda</h2>
                                     <ul class="carousel-btn rounded-buttons">
-                                        <li><a class="main-btn rounded-three" href="#">GET STARTED</a></li>
-                                        <li><a class="main-btn rounded-one" href="#">DOWNLOAD</a></li>
+                                        <li><a class="main-btn rounded-three page-scroll" href="#about">INFO SELANJUTNYA</a></li>
                                     </ul>
                                 </div>
                             </div> <!-- row -->
@@ -40,15 +38,14 @@
                     </div> <!-- carousel caption -->
                 </div> <!-- carousel-item -->
 
-                <div class="carousel-item bg_cover" style="background-image: url(assets/images/slider-3.jpg)">
+                <div class="carousel-item bg_cover" style="background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(assets/images/pelayaran-3.jpg)">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-xl-6 col-lg-7 col-sm-10">
-                                    <h2 class="carousel-title">Multi-purpose Landing Page Template</h2>
+                                    <h2 class="carousel-title">Shipping Terasa Aman bersama SRIL</h2>
                                     <ul class="carousel-btn rounded-buttons">
-                                        <li><a class="main-btn rounded-three" href="#">GET STARTED</a></li>
-                                        <li><a class="main-btn rounded-one" href="#">DOWNLOAD</a></li>
+                                        <li><a class="main-btn rounded-three page-scroll" href="#about">INFO SELANJUTNYA</a></li>
                                     </ul>
                                 </div>
                             </div> <!-- row -->

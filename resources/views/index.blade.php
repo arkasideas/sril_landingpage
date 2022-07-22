@@ -19,148 +19,45 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section-title text-center pb-20">
-                        <h3 class="title">Our Portfolio</h3>
-                        <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
+                        <h3 class="title">Depo SRIL</h3>
+                        <p class="text">Saat ini kami memiliki 2 depo yang bisa kalian kunjungi</p>
                     </div> <!-- row -->
                 </div>
             </div> <!-- row -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="portfolio-menu pt-30 text-center">
-                        <ul>
-                            <li data-filter="*" class="active">ALL WORK</li>
-                            <li data-filter=".branding-3">BRANDING</li>
-                            <li data-filter=".marketing-3">MARKETING</li>
-                            <li data-filter=".planning-3">PLANNING</li>
-                            <li data-filter=".research-3">RESEARCH</li>
-                        </ul>
-                    </div> <!-- portfolio menu -->
-                </div>
-            </div> <!-- row -->
             <div class="row grid">
-                <div class="col-lg-4 col-sm-6 branding-3 planning-3">
+                <div class="col-lg-6 col-sm-6 branding-3 planning-3">
                     <div class="single-portfolio mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.2s">
                         <div class="portfolio-image">
-                            <img src="assets/images/portfolio-1.png" alt="">
+                            <img src="assets/images/depot-1.jpg" alt="">
                             <div class="portfolio-overlay d-flex align-items-center justify-content-center">
                                 <div class="portfolio-content">
                                     <div class="portfolio-icon">
-                                        <a class="image-popup" href="assets/images/portfolio-1.png"><i class="lni-zoom-in"></i></a>
-                                    </div>
-                                    <div class="portfolio-icon">
-                                        <a href="#"><i class="lni-link"></i></a>
+                                        <a class="image-popup" href="assets/images/depot-1.jpg"><i class="lni-zoom-in"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="portfolio-text">
-                            <h4 class="portfolio-title"><a href="#">Graphics Design</a></h4>
-                            <p class="text">Short description for the ones who look for something new. Awesome!</p>
+                            <h4 class="portfolio-title"><a href="#">Depo A</a></h4>
+                            <p class="text">Jalan ...., Surabaya, Jawa Timur, Indonesia </p>
                         </div>
                     </div> <!-- single portfolio -->
                 </div>
-                <div class="col-lg-4 col-sm-6 marketing-3 research-3">
-                    <div class="single-portfolio mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                        <div class="portfolio-image">
-                            <img src="assets/images/portfolio-2.png" alt="">
-                            <div class="portfolio-overlay d-flex align-items-center justify-content-center">
-                                <div class="portfolio-content">
-                                    <div class="portfolio-icon">
-                                        <a class="image-popup" href="assets/images/portfolio-2.png"><i class="lni-zoom-in"></i></a>
-                                    </div>
-                                    <div class="portfolio-icon">
-                                        <a href="#"><i class="lni-link"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="portfolio-text">
-                            <h4 class="portfolio-title"><a href="#">Graphics Design</a></h4>
-                            <p class="text">Short description for the ones who look for something new. Awesome!</p>
-                        </div>
-                    </div> <!-- single portfolio -->
-                </div>
-                <div class="col-lg-4 col-sm-6 branding-3 marketing-3">
-                    <div class="single-portfolio mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.7s">
-                        <div class="portfolio-image">
-                            <img src="assets/images/portfolio-3.png" alt="">
-                            <div class="portfolio-overlay d-flex align-items-center justify-content-center">
-                                <div class="portfolio-content">
-                                    <div class="portfolio-icon">
-                                        <a class="image-popup" href="assets/images/portfolio-3.png"><i class="lni-zoom-in"></i></a>
-                                    </div>
-                                    <div class="portfolio-icon">
-                                        <a href="#"><i class="lni-link"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="portfolio-text">
-                            <h4 class="portfolio-title"><a href="#">Graphics Design</a></h4>
-                            <p class="text">Short description for the ones who look for something new. Awesome!</p>
-                        </div>
-                    </div> <!-- single portfolio -->
-                </div>
-                <div class="col-lg-4 col-sm-6 planning-3 research-3">
+                <div class="col-lg-6 col-sm-6 branding-3 planning-3">
                     <div class="single-portfolio mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.2s">
                         <div class="portfolio-image">
-                            <img src="assets/images/portfolio-4.png" alt="">
+                            <img src="assets/images/depot-2.jpg" alt="">
                             <div class="portfolio-overlay d-flex align-items-center justify-content-center">
                                 <div class="portfolio-content">
                                     <div class="portfolio-icon">
-                                        <a class="image-popup" href="assets/images/portfolio-4.png"><i class="lni-zoom-in"></i></a>
-                                    </div>
-                                    <div class="portfolio-icon">
-                                        <a href="#"><i class="lni-link"></i></a>
+                                        <a class="image-popup" href="assets/images/depot-2.jpg"><i class="lni-zoom-in"></i></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="portfolio-text">
-                            <h4 class="portfolio-title"><a href="#">Graphics Design</a></h4>
-                            <p class="text">Short description for the ones who look for something new. Awesome!</p>
-                        </div>
-                    </div> <!-- single portfolio -->
-                </div>
-                <div class="col-lg-4 col-sm-6 marketing-3">
-                    <div class="single-portfolio mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                        <div class="portfolio-image">
-                            <img src="assets/images/portfolio-5.png" alt="">
-                            <div class="portfolio-overlay d-flex align-items-center justify-content-center">
-                                <div class="portfolio-content">
-                                    <div class="portfolio-icon">
-                                        <a class="image-popup" href="assets/images/portfolio-5.png"><i class="lni-zoom-in"></i></a>
-                                    </div>
-                                    <div class="portfolio-icon">
-                                        <a href="#"><i class="lni-link"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="portfolio-text">
-                            <h4 class="portfolio-title"><a href="#">Graphics Design</a></h4>
-                            <p class="text">Short description for the ones who look for something new. Awesome!</p>
-                        </div>
-                    </div> <!-- single portfolio -->
-                </div>
-                <div class="col-lg-4 col-sm-6 planning-3">
-                    <div class="single-portfolio mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.7s">
-                        <div class="portfolio-image">
-                            <img src="assets/images/portfolio-6.png" alt="">
-                            <div class="portfolio-overlay d-flex align-items-center justify-content-center">
-                                <div class="portfolio-content">
-                                    <div class="portfolio-icon">
-                                        <a class="image-popup" href="assets/images/portfolio-6.png"><i class="lni-zoom-in"></i></a>
-                                    </div>
-                                    <div class="portfolio-icon">
-                                        <a href="#"><i class="lni-link"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="portfolio-text">
-                            <h4 class="portfolio-title"><a href="#">Graphics Design</a></h4>
-                            <p class="text">Short description for the ones who look for something new. Awesome!</p>
+                            <h4 class="portfolio-title"><a href="#">Depo B</a></h4>
+                            <p class="text">Jalan ...., Surabaya, Jawa Timur, Indonesia </p>
                         </div>
                     </div> <!-- single portfolio -->
                 </div>
@@ -177,71 +74,41 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section-title text-center pb-20">
-                        <h3 class="title">Pricing Plan</h3>
-                        <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
+                        <h3 class="title">Visi & Misi SRIL</h3>
+                        <p class="text">SRIL memiliki visi dan misi dalam melayani customer di bidang shipping & logistic</p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
             <div class="row justify-content-center">                
-                <div class="col-lg-4 col-md-7 col-sm-9">
+                <div class="col-lg-6 col-md-7 col-sm-9">
                     <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.2s">
                         <div class="pricing-icon text-center">
-                            <img src="assets/images/wman.svg" alt="">
+                            <img src="assets/images/visi.png" alt="">
                         </div>
                         <div class="pricing-header text-center">
-                            <h5 class="sub-title">Basic</h5>
-                            <p class="month"><span class="price">$ 199</span>/month</p>
+                            <h5 class="sub-title">Visi</h5>
                         </div>
                         <div class="pricing-list">
                             <ul>
-                                <li><i class="lni-check-mark-circle"></i> Carefully crafted components</li>
-                                <li><i class="lni-check-mark-circle"></i> Amazing page examples</li>
+                                <li><i class="lni-check-mark-circle"></i> Menggerakan perekonomian melalui perkapalan</li>
+                                <li><i class="lni-check-mark-circle"></i> Memajukan dunia ekspedisi</li>
                             </ul>
-                        </div>
-                        <div class="pricing-btn rounded-buttons text-center">
-                            <a class="main-btn rounded-three" href="#">GET STARTED</a>
                         </div>
                     </div> <!-- pricing style one -->
                 </div>
-                
-                <div class="col-lg-4 col-md-7 col-sm-9">
-                    <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                        <div class="pricing-icon text-center">
-                            <img src="assets/images/wman.svg" alt="">
-                        </div>
-                        <div class="pricing-header text-center">
-                            <h5 class="sub-title">Pro</h5>
-                            <p class="month"><span class="price">$ 399</span>/month</p>
-                        </div>
-                        <div class="pricing-list">
-                            <ul>
-                                <li><i class="lni-check-mark-circle"></i> Carefully crafted components</li>
-                                <li><i class="lni-check-mark-circle"></i> Amazing page examples</li>
-                            </ul>
-                        </div>
-                        <div class="pricing-btn rounded-buttons text-center">
-                            <a class="main-btn rounded-three" href="#">GET STARTED</a>
-                        </div>
-                    </div> <!-- pricing style one -->
-                </div>
-                
-                <div class="col-lg-4 col-md-7 col-sm-9">
+                <div class="col-lg-6 col-md-7 col-sm-9">
                     <div class="pricing-style-one mt-40 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.8s">
                         <div class="pricing-icon text-center">
-                            <img src="assets/images/wman.svg" alt="">
+                            <img src="assets/images/misi.png" alt="">
                         </div>
                         <div class="pricing-header text-center">
-                            <h5 class="sub-title">Enterprise</h5>
-                            <p class="month"><span class="price">$ 699</span>/month</p>
+                            <h5 class="sub-title">Misi</h5>
                         </div>
                         <div class="pricing-list">
                             <ul>
-                                <li><i class="lni-check-mark-circle"></i> Carefully crafted components</li>
-                                <li><i class="lni-check-mark-circle"></i> Amazing page examples</li>
+                                <li><i class="lni-check-mark-circle"></i>Memberikan Solusi bagi masyarakat mengenai shipping</li>
+                                <li><i class="lni-check-mark-circle"></i>Memberikan kenyamanan customer dalam shipping</li>
                             </ul>
-                        </div>
-                        <div class="pricing-btn rounded-buttons text-center">
-                            <a class="main-btn rounded-three" href="#">GET STARTED</a>
                         </div>
                     </div> <!-- pricing style one -->
                 </div>
@@ -260,8 +127,8 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <div class="section-title text-center pb-20">
-                        <h3 class="title">Testimonial</h3>
-                        <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
+                        <h3 class="title">Testimonial SRIL</h3>
+                        <p class="text">Pelayanan SRIL memberikan hasil yang memuaskan untuk para customer. Kami akan terus melayani anda setiap hari</p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -272,48 +139,48 @@
                         <div class="col-lg-4">
                             <div class="single-testimonial mt-30 mb-30 text-center">
                                 <div class="testimonial-image">
-                                    <img src="assets/images/author-3.jpg" alt="Author">
+                                    <img src="https://source.boringavatars.com/beam/40/Alicia%20Dickerson" alt="Author">
                                 </div>
                                 <div class="testimonial-content">
-                                    <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed! Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-                                    <h6 class="author-name">Isabela Moreira</h6>
-                                    <span class="sub-title">CEO, GrayGrids</span>
+                                    <p class="text">Terima kasih SRIL ! Telah membantu saya dalam hal ekspedisi. Terpercaya !</p>
+                                    <h6 class="author-name">Sri Intan Purnama</h6>
+                                    <span class="sub-title">Masyarakat Surabaya</span>
                                 </div>
                             </div> <!-- single testimonial -->
                         </div>
                         <div class="col-lg-4">
                             <div class="single-testimonial mt-30 mb-30 text-center">
                                 <div class="testimonial-image">
-                                    <img src="assets/images/author-1.jpg" alt="Author">
+                                    <img src="https://source.boringavatars.com/beam/40/Maya%20Angelou" alt="Author">
                                 </div>
                                 <div class="testimonial-content">
-                                    <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed! Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-                                    <h6 class="author-name">Fiona</h6>
-                                    <span class="sub-title">Lead Designer, UIdeck</span>
+                                    <p class="text">Mudah, cepat, dan Terpercaya ! SRIL andalan kita semua. Sukses selalu buat SRIL !</p>
+                                    <h6 class="author-name">Bambang Hartani</h6>
+                                    <span class="sub-title">Staff Logistik PT Indah Makmur</span>
                                 </div>
                             </div> <!-- single testimonial -->
                         </div>
                         <div class="col-lg-4">
                             <div class="single-testimonial mt-30 mb-30 text-center">
                                 <div class="testimonial-image">
-                                    <img src="assets/images/author-2.jpg" alt="Author">
+                                    <img src="https://source.boringavatars.com/beam/40/Margaret%20Bourke" alt="Author">
                                 </div>
                                 <div class="testimonial-content">
-                                    <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed! Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-                                    <h6 class="author-name">Elon Musk</h6>
-                                    <span class="sub-title">CEO, SpaceX</span>
+                                    <p class="text">Mantap ! SRIL dapat diandalkan. Pengantaran cepat dan ontime. Lanjutkan SRIL !</p>
+                                    <h6 class="author-name">Cahyadi Damar</h6>
+                                    <span class="sub-title">Kepala Staff CV Indo Sejati</span>
                                 </div>
                             </div> <!-- single testimonial -->
                         </div>
                         <div class="col-lg-4">
                             <div class="single-testimonial mt-30 mb-30 text-center">
                                 <div class="testimonial-image">
-                                    <img src="assets/images/author-4.jpg" alt="Author">
+                                    <img src="https://source.boringavatars.com/beam/40/Elizabeth%20Peratrovich" alt="Author">
                                 </div>
                                 <div class="testimonial-content">
-                                    <p class="text">Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed! Stop wasting time and money designing and managing a website that doesn’t get results. Happiness guaranteed!</p>
-                                    <h6 class="author-name">Fajar Siddiq</h6>
-                                    <span class="sub-title">CEO, MakerFlix</span>
+                                    <p class="text">Pelayanan yang memuaskan ! Tidak pakai menunda, SRIL selalu siap membantu.</p>
+                                    <h6 class="author-name">Ningsih Iskandar</h6>
+                                    <span class="sub-title">Ketua Div. Gudang PT Jaya Abadi</span>
                                 </div>
                             </div> <!-- single testimonial -->
                         </div>
@@ -326,7 +193,7 @@
     <!--====== TESTIMONIAL THREE PART ENDS ======-->
     
     <!--====== CLIENT LOGO PART START ======-->
-
+{{-- 
     <section id="client" class="client-logo-area">
         <div class="container">
             <div class="row client-active">
@@ -372,7 +239,7 @@
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
-    </section>
+    </section> --}}
 
     <!--====== CLIENT LOGO PART ENDS ======-->
     
@@ -387,52 +254,6 @@
     <!--====== FOOTER FOUR PART START ======-->
 
     <footer id="footer" class="footer-area">
-        <div class="footer-widget">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-link">
-                            <h6 class="footer-title">Company</h6>
-                            <ul>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">Profile</a></li>
-                            </ul>
-                        </div> <!-- footer link -->
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-link">
-                            <h6 class="footer-title">Solutions</h6>
-                            <ul>
-                                <li><a href="#">Facilities Services</a></li>
-                                <li><a href="#">Workplace Staffing</a></li>
-                                <li><a href="#">Project Management</a></li>
-                            </ul>
-                        </div> <!-- footer link -->
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-link">
-                            <h6 class="footer-title">Product & Services</h6>
-                            <ul>
-                                <li><a href="#">Products</a></li>
-                                <li><a href="#">Business</a></li>
-                                <li><a href="#">Developer</a></li>
-                            </ul>
-                        </div> <!-- footer link -->
-                    </div>
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="footer-link">
-                            <h6 class="footer-title">Help & Suuport</h6>
-                            <ul>
-                                <li><a href="#">Support Center</a></li>
-                                <li><a href="#">FAQ</a></li>
-                                <li><a href="#">Terms & Conditions</a></li>
-                            </ul>
-                        </div> <!-- footer link -->
-                    </div>
-                </div> <!-- row -->
-            </div> <!-- container -->
-        </div> <!-- footer widget -->
         
         <div class="footer-copyright">
             <div class="container">
